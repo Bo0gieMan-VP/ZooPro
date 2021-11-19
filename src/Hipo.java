@@ -12,7 +12,7 @@ public class Hipo extends Mammal {
         return super.toString() + "\nHipo: " +
                 "\n     Fat percentage: " + fatPercentage;
     }
-
+// STFU
     public double getFatPercentage() {
         return fatPercentage;
     }
