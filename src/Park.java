@@ -5,6 +5,7 @@ public class Park {
 
     public Park() {
         System.out.println("A zoo was created!");
+        System.out.println("Sagi Tufman");
     }
 
     public static int getAnimalsCounter() {
